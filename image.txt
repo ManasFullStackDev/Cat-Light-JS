@@ -1,0 +1,4 @@
+Bulb on image: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/bulb-go-on-img.png
+Bulb off image: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/bulb-go-off-img.png
+Cat image: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/cat-img.png
+Cat eye image: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/cat-eyes-img.png
