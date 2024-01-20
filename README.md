@@ -4,7 +4,7 @@
 
 This JavaScript code creates a simple web application that allows users to toggle between a lit bulb and a cat image. The application consists of two images, a button to turn the bulb off, and a button to turn the bulb on.
 
-## Step-by-Step Explanation
+## Overview
 
 ### HTML
 
